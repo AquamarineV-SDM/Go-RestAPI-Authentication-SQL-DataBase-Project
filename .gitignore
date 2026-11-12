@@ -1,0 +1,20 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+*.dylib
+
+# Folders
+_obj
+_test
+
+# Architecture specific extensions/prefixes
+*.exe
+*.exe~
+
+# Ignored files (เช่น ฐานข้อมูล หรือไฟล์ตั้งค่าที่มีความลับ)
+api.db
+.env
+
+# OS specific files
+.DS_Store
